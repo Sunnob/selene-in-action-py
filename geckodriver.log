@@ -1,0 +1,82 @@
+1774448199175	geckodriver	INFO	Listening on 127.0.0.1:55938
+1774448202245	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofileLdqnKl"
+Dynamically enable window occlusion 0
+1774448203489	Marionette	INFO	Marionette enabled
+1774448203581	Marionette	INFO	Listening on port 53482
+WebDriver BiDi listening on ws://127.0.0.1:55939
+Read port: 53482
+1774448203674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774448211900	Marionette	INFO	Stopped listening on port 53482
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1774448229955	geckodriver	INFO	Listening on 127.0.0.1:64566
+1774448233040	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofileEwg8n2"
+Dynamically enable window occlusion 0
+1774448233435	Marionette	INFO	Marionette enabled
+1774448233513	Marionette	INFO	Listening on port 64588
+WebDriver BiDi listening on ws://127.0.0.1:64567
+Read port: 64588
+1774448233629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774448241073	Marionette	INFO	Stopped listening on port 64588
+console.error: AboutNewTabResourceMapping: "train-hop add-on install failure: Error: Unexpected download cancelled while downloading xpi from https://archive.mozilla.org/pub/system-addons/newtab/newtab-150.1.0-build1/newtab.xpi"
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1774448479217	geckodriver	INFO	Listening on 127.0.0.1:59671
+1774448482261	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofileq204mw"
+Dynamically enable window occlusion 0
+1774448482602	Marionette	INFO	Marionette enabled
+1774448482680	Marionette	INFO	Listening on port 59694
+WebDriver BiDi listening on ws://127.0.0.1:59672
+Read port: 59694
+1774448482754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774448486620	Marionette	INFO	Stopped listening on port 59694
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1, line 201: Script terminated by timeout at:
+Fd@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:201:303
+d@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:417:62
+qp.prototype.getMergedValues@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:417:214
+SK@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:769:490
+k.Ns@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:847:27
+k.Ms/</<@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:846:46
+Tl@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:381:194
+uo@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:407:160
+k.Ms/<@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:846:32
+c@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:774:402
+yL@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:775:232
+k.Ms@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:846:18
+b@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:854:966
+u@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:428:188
+bm@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:383:517
+vq@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:428:285
+uq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:432:302
+uq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:430:379
+gq@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:424:701
+jC.event@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:670:88
+EC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:676:482
+HC/b.push@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:681:143
+AC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:681:476
+IC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:682:18
+pD@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:695:308
+qD@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:696:156
+xm@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:915:237
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:919:268
+c@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:917:130
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:919:232
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:919:237
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:921:3
+
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
