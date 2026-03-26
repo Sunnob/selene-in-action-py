@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0e1d85-d98c-44fd-be62-f589a6c9fcc4" name="Changes" comment="Added webdriver">
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae0e1d85-d98c-44fd-be62-f589a6c9fcc4" name="Changes" comment="Testing methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,7 @@
       <updated>1774443813299</updated>
       <workItem from="1774443815082" duration="534000" />
       <workItem from="1774444370330" duration="4300000" />
-      <workItem from="1774559866955" duration="403000" />
+      <workItem from="1774559866955" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="Adding files and code">
       <option name="closed" value="true" />
@@ -130,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774560095848</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Testing methods">
+      <option name="closed" value="true" />
+      <created>1774560956812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774560956812</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,10 +147,11 @@
     <MESSAGE value="Codes and extensions for testing" />
     <MESSAGE value="Applying changes" />
     <MESSAGE value="Added webdriver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added webdriver" />
+    <MESSAGE value="Testing methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing methods" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/4__Selene$.coverage" NAME=" Coverage Results" MODIFIED="1774448478217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4__Selene$.coverage" NAME=" Coverage Results" MODIFIED="1774560284880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/4__Selene$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1774448474538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
 </project>

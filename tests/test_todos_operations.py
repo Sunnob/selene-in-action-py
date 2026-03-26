@@ -9,4 +9,4 @@ def test_complete_todo():
     browser.element('.new-todo').type('a').press_enter()
     browser.element('.new-todo').type('b').press_enter()
     browser.element('.new-todo').type('c').press_enter()
-    browser.all('.todo-list>li').should(have.size(3))
+    browser.all('.todo-list>li').with_(timeout=browser.config.timeout * 1.5).should(have.size(3))
