@@ -8,8 +8,9 @@ from selenium import webdriver
 @pytest.fixture(scope='function', autouse=True)
 def browser_management():
     browser.config.base_url = 'https://todomvc.com/examples/emberjs/todomvc/dist/'
-    browser.config.driver_name = 'firefox'
-    browser.config.driver_options = webdriver.FirefoxOptions()
+    driver_options = webdriver.FirefoxOptions()
+    driver_options.add_argument('--headless')
+    browser.config.driver_options = driver_options
 
     yield
 

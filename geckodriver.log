@@ -80,3 +80,21 @@ c@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:917:130
 
 console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
 console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1774560289446	geckodriver	INFO	Listening on 127.0.0.1:61873
+1774560292534	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--headless" "--rem ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofileI9RAAx"
+*** You are running in headless mode.
+Dynamically enable window occlusion 0
+1774560294368	Marionette	INFO	Marionette enabled
+1774560294452	Marionette	INFO	Listening on port 60026
+WebDriver BiDi listening on ws://127.0.0.1:61874
+Read port: 60026
+1774560294569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: moz-src:///browser/components/downloads/DownloadsTaskbar.sys.mjs :: #windowsAttachIndicator :: line 183"  data: no]
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774560297493	Marionette	INFO	Stopped listening on port 60026
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
