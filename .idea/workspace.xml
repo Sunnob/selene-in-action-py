@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0e1d85-d98c-44fd-be62-f589a6c9fcc4" name="Changes" comment="Adding files and code">
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selene-in-action-py/conditions/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_todos_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_todos_operations.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae0e1d85-d98c-44fd-be62-f589a6c9fcc4" name="Changes" comment="Codes and extensions for testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774443813299</updated>
       <workItem from="1774443815082" duration="534000" />
-      <workItem from="1774444370330" duration="3768000" />
+      <workItem from="1774444370330" duration="4300000" />
     </task>
     <task id="LOCAL-00001" summary="Adding files and code">
       <option name="closed" value="true" />
@@ -107,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774445319428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Codes and extensions for testing">
+      <option name="closed" value="true" />
+      <created>1774448660563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774448660563</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding files and code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding files and code" />
+    <MESSAGE value="Codes and extensions for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codes and extensions for testing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4__Selene$.coverage" NAME=" Coverage Results" MODIFIED="1774448478217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
