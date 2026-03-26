@@ -98,3 +98,59 @@ JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted prop
 Dynamically enable window occlusion 1
 console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
 console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1774561230208	geckodriver	INFO	Listening on 127.0.0.1:61782
+1774561233233	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--headless" "--rem ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofileqSvYUF"
+*** You are running in headless mode.
+Dynamically enable window occlusion 0
+1774561233548	Marionette	INFO	Marionette enabled
+1774561233606	Marionette	INFO	Listening on port 61836
+WebDriver BiDi listening on ws://127.0.0.1:61783
+Read port: 61836
+1774561233714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: moz-src:///browser/components/downloads/DownloadsTaskbar.sys.mjs :: #windowsAttachIndicator :: line 183"  data: no]
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774561235853	Marionette	INFO	Stopped listening on port 61836
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1774561429365	geckodriver	INFO	Listening on 127.0.0.1:55086
+1774561432423	mozrunner::runner	INFO	Running command: "C:\\Users\\Sunnat\\.cache\\selenium\\firefox\\win64\\149.0\\firefox.exe" "--marionette" "--headless" "--rem ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sunnat\\AppData\\Local\\Temp\\rust_mozprofiletYi6DB"
+*** You are running in headless mode.
+Dynamically enable window occlusion 0
+1774561432757	Marionette	INFO	Marionette enabled
+1774561432828	Marionette	INFO	Listening on port 55114
+WebDriver BiDi listening on ws://127.0.0.1:55087
+Read port: 55114
+1774561432924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: moz-src:///browser/components/downloads/DownloadsTaskbar.sys.mjs :: #windowsAttachIndicator :: line 183"  data: no]
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+1774561435552	Marionette	INFO	Stopped listening on port 55114
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1, line 393: Script terminated by timeout at:
+Un@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:393:52
+Vn@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:393:392
+Un@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:393:81
+e@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:638:205
+hB@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:641:521
+lB@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:646:46
+vC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:672:327
+yC/b.push@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:676:143
+rC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:676:476
+zC@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:677:18
+gD@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:690:308
+hD@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:691:156
+tm@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:906:237
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:910:268
+c@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:908:130
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:910:232
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:910:237
+@https://www.googletagmanager.com/gtag/js?id=G-T3XWXPZX5B&cx=c&_slc=1:912:3
+
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
