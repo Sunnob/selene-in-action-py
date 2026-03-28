@@ -7,7 +7,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 
 def test_complete_todo():
-    browser.open('/') #opening browser
+    browser.open('/')  # opening browser
     browser.element('.new-todo').should(be.blank)
     browser.driver.find_element(By.CSS_SELECTOR, '.new-todo')
 
@@ -18,7 +18,6 @@ def test_complete_todo():
 
     browser.all('.todo-list>li').should(have.size(3))  # selene
     # browser.all('.todo-list>li').wai.for_(have.size(3))
-
 
     '''
     assert len(browser.driver.find_elements(*by.css('.todo-list>li'))) == 3
